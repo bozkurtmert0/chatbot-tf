@@ -21,8 +21,8 @@
          "responses": ["Overfitting is occurs when a statistical model fits exactly against its training data.", " Overfitting occurs when the model has a high variance"]
         },
         {"tag": "machine",
-         "patterns": ["Can machines think?", ],
-         "responses": ["Yes i think so ", ]
+         "patterns": ["Can machines think?" ],
+         "responses": ["Yes i think so " ]
         },
         {"tag": "underfitting",
          "patterns": ["What is the underfitting?", "Do you know underfitting?"],
