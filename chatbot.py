@@ -165,3 +165,5 @@ def response(sentence, userID='123', show_details=False):
                     #print(random.choice(i['responses']))
 
             results.pop(0)
+
+
