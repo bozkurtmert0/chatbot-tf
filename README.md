@@ -1,6 +1,8 @@
 # :no_entry: Work in progress :no_entry:
 ## TO-DO
 ####  More data
+#### Better GUI
+####  Better README
 ####  More explanation and understanding fundamentals
 
 
